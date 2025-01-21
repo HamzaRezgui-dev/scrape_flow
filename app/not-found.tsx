@@ -22,7 +22,6 @@ function NotFoundPage() {
           </Link>
         </div>
       </div>
-
       <footer className="mt-12 text-center text-sm text-muted-foreground ">
         If you believe this is an error, please contact our support team.
       </footer>
